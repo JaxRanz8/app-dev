@@ -6,7 +6,7 @@ My first repository
 2. Naruto Shippuden
 3. One Piece
 
-###
+### Name & Age
 {
   "firstName": "Jarrel",
   "lastName": "Carandang",
