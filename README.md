@@ -7,8 +7,10 @@ My first repository
 3. One Piece
 
 ### Name & Age
+```
 {
   "firstName": "Jarrel",
   "lastName": "Carandang",
   "age": 20
 }
+```
